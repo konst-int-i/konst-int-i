@@ -1,4 +1,4 @@
-👋 Hi, I’m @konst-int-i (Konstantin), a PhD student in the Computer Lab at the University of Cambridge. 
+👋 I am a PhD student in the Computer Lab at the University of Cambridge. 
 
 My PhD is on explainable AI (XAI) for clinical decision-making, but am curious about any AI theory and applications that are useful in the real world. 
 
