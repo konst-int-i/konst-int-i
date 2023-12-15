@@ -1,3 +1,5 @@
+[Personal Site](https://konst-int-i.github.io/)
+
 👋 I am a PhD student in the Computer Lab at the University of Cambridge. 
 
 My PhD is on explainable AI (XAI) and multi-modal machine learning applied to pathology, radiology, and other fields. I am curious about AI theory and applications that are useful in the real world. 
