@@ -1,8 +1,6 @@
 [Personal Site](https://konst-int-i.github.io/)
 
-👋 I am a PhD student in the Computer Lab at the University of Cambridge. 
-
-My PhD is on multi-modal machine learning applied to pathology, radiology, and other fields. I am curious about AI theory and applications that are useful in the real world. 
+👋 I am a researcher on machine learning methods applied to different areas of biology, spanning computational pathology, spatial transcriptomics, and molecular design. I am curious about unconventional AI theory and their suitability to model life sciences.
 
 <!---
 konst-int-i/konst-int-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
